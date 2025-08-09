@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning machine learning<br>💬 Ask me about anything<br>
+🌱 I’m currently learning machine learning<br>💬 Ask me anything<br>
 
 
 ## 🌐 Socials:
