@@ -2,6 +2,7 @@
 🔭 I'm currently working on Chat Application<br>👯 I'm looking to collaborate on open source projects involving React or Next.js.<br>🤝 I'm looking for help with advanced concepts in Node.js and system design.<br>🌱 I'm currently learning ...<br>💬 Ask me about anything.<br>⚡ Fun fact: A "Heisenbug" is a software bug that seems to disappear or alter its behavior when you try to observe or debug it.
 
 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https:instagram.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubh79.nolan@gmail.com) 
 
