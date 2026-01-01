@@ -1,5 +1,17 @@
 # 💫 About Me:
-🔭 I'm currently working on Chat Application<br>👯 I'm looking to collaborate on open source projects involving React or Next.js.<br>🤝 I'm looking for help with advanced concepts in Node.js and system design.<br>🌱 I'm currently learning ...<br>💬 Ask me about anything.<br>⚡ Fun fact: A "Heisenbug" is a software bug that seems to disappear or alter its behavior when you try to observe or debug it.
+🔭 __Currently working as:__ A _Software Development Intern_, contributing to a multi-feature web platform
+<br>
+🧩 __What I work on:__ A single website offering consultations, subscriptions, online classes, and webinars
+<br>
+👯 __Open to collaborating on:__ Open-source projects built with React or Next.js
+<br>
+🤝 __Looking for help with:__ Advanced architecture, and system design
+<br>
+🌱 __Currently learning:__ Scalable web applications, backend optimization, and real-world system design
+<br>
+💬 __Ask me about:__ JavaScript, React, Next.js, or full-stack development
+<br>
+⚡ __Fun fact:__ A Heisenbug is a software bug that changes or disappears when you try to debug it—basically, the bug knows you’re watching 👀
 
 
 
