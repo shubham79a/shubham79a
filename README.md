@@ -101,6 +101,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shubham79a&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![](https://count.getloli.com/get/@shubham79a?theme=moeburn)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
